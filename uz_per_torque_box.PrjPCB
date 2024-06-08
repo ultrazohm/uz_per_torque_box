@@ -144,24 +144,24 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=M. Hoerner
 
 [Parameter2]
-Name=ProjectNameCustom
-Value=uz_per_torque_box
+Name=AuthorParam
+Value=M. Hoerner
 
 [Parameter3]
 Name=FinDate
 Value=06/24
 
 [Parameter4]
-Name=AuthorParam
-Value=M. Hoerner
+Name=ProjectNameCustom
+Value=uz_per_torque_box
 
 [Parameter5]
-Name=Author
-Value=M. Hoerner
+Name=ProjectRevision
+Value=Rev01
 
 [Configuration1]
 Name=Sources
