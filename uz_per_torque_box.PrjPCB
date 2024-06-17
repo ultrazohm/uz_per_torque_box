@@ -140,7 +140,9 @@ UniqueId=71DFC42C-576D-41D2-8626-2BD91891E07E
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=2
+Variation1=Designator=C8|UniqueId=\JKYWQMAP|Kind=1|AlternatePart=
+Variation2=Designator=C3|UniqueId=\MBAFBUYK|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
