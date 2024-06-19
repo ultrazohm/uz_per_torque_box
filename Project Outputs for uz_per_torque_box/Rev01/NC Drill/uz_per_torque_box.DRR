@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: uz_per_torque_box.PcbDoc   19.06.2024  13:19:52
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : uz_per_torque_box.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             16        PTH        4.44inch (112.85mm)
+T2      35mil (0.9mm)                                             Round             16        PTH        1.74inch (44.23mm)
+T3      40mil (1.016mm)                                           Round             16        PTH        1.50inch (38.10mm)
+T4      45mil (1.15mm)                                            Round             15        PTH        1.53inch (38.90mm)
+T5      63mil (1.6mm)                                             Round             2         PTH        1.26inch (32.00mm)
+T6      128mil (3.25mm)                                           Round             2         PTH        1.31inch (33.32mm)
+T7      128mil (3.25mm)                                           Round             2         NPTH       1.12inch (28.45mm)
+T8      134mil (3.4mm)          +/-3mil (0.076mm)                 Round             4         NPTH       6.46inch (163.99mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              73
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\GIT\UltraZohm\pcb_design\uz_per_torque_box\uz_per_torque_box.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Differential|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width_Power|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_Power|Scope=Board|Minimum=3.94
